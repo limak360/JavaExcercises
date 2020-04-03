@@ -1,4 +1,4 @@
-package pl.KamilJacko.genericTypes;
+package pl.kamiljacko.generictypes;
 
 public class Main {
 

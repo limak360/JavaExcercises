@@ -1,4 +1,4 @@
-package pl.KamilJacko.collections.maps;
+package pl.kamiljacko.collections.maps;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package pl.KamilJacko.innerClasses;
+package pl.kamiljacko.innerclasses;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

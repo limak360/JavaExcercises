@@ -1,4 +1,4 @@
-package pl.KamilJacko.lambdaExpressions;
+package pl.kamiljacko.lambdaexpressions;
 
 import java.util.ArrayList;
 import java.util.Arrays;

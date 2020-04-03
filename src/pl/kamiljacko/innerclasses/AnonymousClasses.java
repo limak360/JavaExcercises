@@ -1,4 +1,4 @@
-package pl.KamilJacko.innerClasses;
+package pl.kamiljacko.innerclasses;
 
 public class AnonymousClasses {
     public static class Robot {

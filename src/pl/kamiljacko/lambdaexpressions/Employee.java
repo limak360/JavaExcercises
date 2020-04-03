@@ -1,4 +1,4 @@
-package pl.KamilJacko.lambdaExpressions;
+package pl.kamiljacko.lambdaexpressions;
 
 public class Employee {
     private String name;

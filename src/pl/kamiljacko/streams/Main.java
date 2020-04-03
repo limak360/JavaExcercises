@@ -1,4 +1,4 @@
-package pl.KamilJacko.streams;
+package pl.kamiljacko.streams;
 
 import java.util.Arrays;
 import java.util.List;

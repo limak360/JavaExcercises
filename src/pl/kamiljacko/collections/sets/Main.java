@@ -1,4 +1,4 @@
-package pl.KamilJacko.collections.sets;
+package pl.kamiljacko.collections.sets;
 
 import java.util.HashSet;
 import java.util.Scanner;

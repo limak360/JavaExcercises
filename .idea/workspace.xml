@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31da5017-f233-4148-89c8-eb7c8e29fa6e" name="Default Changelist" comment="" />
+    <list default="true" id="31da5017-f233-4148-89c8-eb7c8e29fa6e" name="Default Changelist" comment="Packages naming convention implemented">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/AnnotationProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/AnnotationProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/MyDocumentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/MyDocumentation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/lists/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/lists/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/maps/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/maps/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/sets/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/sets/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/BaseballTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/BaseballTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/FootballTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/FootballTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/SportLeagueTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/SportLeagueTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album$SongList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album$SongList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$GreetingModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$GreetingModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/JavaUtilFunctionPackage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/JavaUtilFunctionPackage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main$Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main$Checker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/nic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/nic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/streams/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/streams/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/annonations/AnnotationProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/annonations/AnnotationProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/annonations/MyDocumentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/annonations/MyDocumentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/collections/lists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/collections/lists/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/collections/maps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/collections/maps/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/collections/sets/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/collections/sets/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/genericTypes/BaseballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/generictypes/BaseballTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/genericTypes/FootballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/generictypes/FootballTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/genericTypes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/generictypes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/genericTypes/SportLeagueTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/generictypes/SportLeagueTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/genericTypes/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/generictypes/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/innerClasses/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/innerclasses/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/innerClasses/AnonymousClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/innerclasses/AnonymousClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/innerClasses/Excercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/innerclasses/Excercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/innerClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/innerclasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/innerClasses/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/innerclasses/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/lambdaExpressions/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/lambdaexpressions/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/lambdaExpressions/JavaUtilFunctionPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/lambdaexpressions/JavaUtilFunctionPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/lambdaExpressions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/lambdaexpressions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/KamilJacko/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/streams/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +79,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YafBzzmp2qCV1d6tKAcvhCTPOA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,11 +104,11 @@
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Excercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.KamilJacko.innerClasses.Excercise" />
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.innerclasses.Excercise" />
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.KamilJacko.innerClasses.*" />
+          <option name="PATTERN" value="pl.kamiljacko.innerclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="JavaUtilFunctionPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.KamilJacko.lambdaExpressions.JavaUtilFunctionPackage" />
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.lambdaexpressions.JavaUtilFunctionPackage" />
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.KamilJacko.lambdaExpressions.*" />
+          <option name="PATTERN" value="pl.kamiljacko.lambdaexpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +143,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.KamilJacko.collections.maps.Main" />
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.streams.Main" />
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.KamilJacko.collections.maps.*" />
+          <option name="PATTERN" value="pl.kamiljacko.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kamilJacko.collections.maps.Main" />
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kamilJacko.collections.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,9 +197,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaUtilFunctionPackage" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Excercise" />
       </list>
     </recent_temporary>
@@ -184,11 +249,17 @@
       <workItem from="1585730667217" duration="7808000" />
       <workItem from="1585824272289" duration="12336000" />
       <workItem from="1585907682925" duration="11892000" />
+      <workItem from="1585949152177" duration="101000" />
+      <workItem from="1585949442235" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Packages naming convention implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Packages naming convention implemented" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585593167711">
@@ -207,22 +278,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1156" y="237" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585689032869" />
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1585948675644">
+    <state x="527" y="113" key="CommitChangelistDialog2" timestamp="1585949625327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585948675644" />
-    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1585948675644">
+    <state x="527" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585949625327" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1585949674707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585948675644" />
-    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1585948675644">
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585949674707" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1585949674706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585948675644" />
-    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1585948675644">
+    <state width="1876" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585949674706" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1585949674706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585948675644" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585949674706" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1585949674706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585949674706" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1585864589534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

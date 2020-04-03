@@ -1,4 +1,4 @@
-package pl.KamilJacko.annonations;
+package pl.kamiljacko.annonations;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationTargetException;
