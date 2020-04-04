@@ -1,5 +1,6 @@
 package pl.kamiljacko.streams;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
@@ -11,17 +12,27 @@ public class Main {
 
         someNumbs.stream()
                 .map(String::toUpperCase)
-                .filter(b->b.startsWith("B"))
+                .filter(b -> b.startsWith("B"))
                 .sorted()
                 .forEach(System.out::println);
 
-        Stream<String> cbNumberStream = Stream.of("C12","C78","B11","B39");
-        Stream<String> gbNumberStream = Stream.of("B11","B39","G32","G54");
-        Stream<String> concatStream = Stream.concat(cbNumberStream,gbNumberStream);
+        Stream<String> cbNumberStream = Stream.of("C12", "C78", "B11", "B39");
+        Stream<String> gbNumberStream = Stream.of("B11", "B39", "G32", "G54");
+        Stream<String> concatStream = Stream.concat(cbNumberStream, gbNumberStream);
         System.out.println("*******************");
         System.out.println(concatStream
-                            .distinct()
-                            .peek(System.out::println)
-                            .count());
+                .distinct()
+                .peek(System.out::println)
+                .count());
+
+        System.out.println("*******************");
+        List<String> sortedBNumbs = someNumbs
+                .stream()
+                .map(String::toUpperCase)
+                .filter(n->n.startsWith("B"))
+                .sorted()
+                .collect(ArrayList::new,ArrayList::add,ArrayList::addAll);
+
+        sortedBNumbs.forEach(System.out::println);
     }
 }
