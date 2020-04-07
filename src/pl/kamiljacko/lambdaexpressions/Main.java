@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-         final int i = 0;
+        final int i = 0;
         //  annonymous class (class is created)
 //        Checker<Integer> ww = new Checker<Integer>() {
 //            @Override
@@ -32,7 +32,6 @@ public class Main {
         // System.out.println((Checker<Integer>) obj -> obj % 2 != 0);
         ww = obj -> obj % 3 == 0;
         System.out.println(ww.check(6));
-
 
         List<Integer> numbs = Arrays.asList(1, 2, 3, 4, 5);
         numbs.forEach(System.out::println);
@@ -74,7 +73,6 @@ interface nic {
 //        return "private words";
 //    }
 }
-
 
 class Customer {
     private String name;
