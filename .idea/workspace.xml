@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31da5017-f233-4148-89c8-eb7c8e29fa6e" name="Default Changelist" comment="Packages naming convention implemented">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/AnnotationProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/annonations/MyDocumentation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/lists/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/maps/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/collections/sets/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/BaseballTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/FootballTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/SportLeagueTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/genericTypes/Team.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album$SongList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Album.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$GreetingModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses$Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/AnonymousClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Excercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/innerClasses/Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Challanges.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/JavaUtilFunctionPackage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main$Checker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/lambdaExpressions/nic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/streams/Challanges.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/streams/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/lambdaexpressions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/lambdaexpressions/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,35 +57,9 @@
       <recent name="pl.KamilJacko.GenericTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VolatileExample">
-    <configuration name="Challanges (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.streams.Challanges" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Challanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.lambdaexpressions.Challanges" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.lambdaexpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Deadlock" />
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamilJacko.collections.maps.Main" />
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Main" />
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kamilJacko.collections.maps.*" />
+          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,7 +115,20 @@
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.*" />
+          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerImproved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.ProducerConsumerImproved" />
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,7 +141,7 @@
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.*" />
+          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Deadlock" />
+        <item itemvalue="Application.ProducerConsumerImproved" />
         <item itemvalue="Application.VolatileExample" />
         <item itemvalue="Application.ProducerConsumerExample" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Challanges (1)" />
-        <item itemvalue="Application.Challanges" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +212,7 @@
       <workItem from="1586119613097" duration="1542000" />
       <workItem from="1586185218482" duration="2895000" />
       <workItem from="1586255319994" duration="8960000" />
+      <workItem from="1586341573348" duration="12876000" />
     </task>
     <servers />
   </component>
@@ -273,10 +228,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585593167711" />
-    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1586272843875">
+    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1586380311767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586272843875" />
+    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586380311767" />
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584975250340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -285,26 +240,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1156" y="237" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585689032869" />
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586377404720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586377404720" />
     <state x="527" y="113" key="CommitChangelistDialog2" timestamp="1585949625327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="527" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585949625327" />
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1586295572169">
+    <state width="1876" height="156" key="GridCell.Tab.0.bottom" timestamp="1586382830654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572169" />
-    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1586295572169">
+    <state width="1876" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
+    <state width="1876" height="156" key="GridCell.Tab.0.center" timestamp="1586382830654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572169" />
-    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1586295572169">
+    <state width="1876" height="156" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
+    <state width="1876" height="156" key="GridCell.Tab.0.left" timestamp="1586382830654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572169" />
-    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1586295572169">
+    <state width="1876" height="156" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
+    <state width="1876" height="156" key="GridCell.Tab.0.right" timestamp="1586382830654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572169" />
+    <state width="1876" height="156" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1586295572170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -333,9 +292,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1095" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583358189618" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586000586565">
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586381479669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586000586565" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586381479669" />
   </component>
 </project>
