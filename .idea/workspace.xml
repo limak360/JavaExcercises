@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="31da5017-f233-4148-89c8-eb7c8e29fa6e" name="Default Changelist" comment="Packages naming convention implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/threads/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/threads/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/threads/VolatileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/threads/VolatileExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +56,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.kamiljacko.threads" />
       <recent name="pl.KamilJacko.GenericTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Challanges">
+    <configuration name="Challanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Challanges" />
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kamiljacko.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Deadlock" />
       <module name="Java Excercises" />
@@ -110,19 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.ProducerConsumerExample" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ProducerConsumerImproved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.ProducerConsumerImproved" />
       <module name="Java Excercises" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Challanges" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.ProducerConsumerImproved" />
         <item itemvalue="Application.VolatileExample" />
-        <item itemvalue="Application.ProducerConsumerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +216,7 @@
       <workItem from="1586185218482" duration="2895000" />
       <workItem from="1586255319994" duration="8960000" />
       <workItem from="1586341573348" duration="12876000" />
+      <workItem from="1586422033248" duration="7159000" />
     </task>
     <servers />
   </component>
@@ -248,22 +252,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="527" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585949625327" />
-    <state width="1876" height="156" key="GridCell.Tab.0.bottom" timestamp="1586382830654">
+    <state width="1876" height="116" key="GridCell.Tab.0.bottom" timestamp="1586437741592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
-    <state width="1876" height="156" key="GridCell.Tab.0.center" timestamp="1586382830654">
+    <state width="1876" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741592" />
+    <state width="1876" height="116" key="GridCell.Tab.0.center" timestamp="1586437741591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="156" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
-    <state width="1876" height="156" key="GridCell.Tab.0.left" timestamp="1586382830654">
+    <state width="1876" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
+    <state width="1876" height="116" key="GridCell.Tab.0.left" timestamp="1586437741591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="156" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
-    <state width="1876" height="156" key="GridCell.Tab.0.right" timestamp="1586382830654">
+    <state width="1876" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
+    <state width="1876" height="116" key="GridCell.Tab.0.right" timestamp="1586437741591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="156" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586382830654" />
+    <state width="1876" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1586295572170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -292,6 +296,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1095" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583358189618" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1586434783624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586434783624" />
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586381479669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

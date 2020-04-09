@@ -7,6 +7,8 @@ import java.time.temporal.ChronoUnit;
 public class VolatileExample {
     private static volatile boolean isDone = false;
 
+    //java.util.concurrent.atomic package support lock-free thread-safe programming on single variables
+
     public static void main(String[] args) {
         Thread backgroundJob = new Thread(() -> {
             try {

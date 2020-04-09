@@ -5,7 +5,7 @@ class Counter {
 
     public void increment() {
         value++;
-       // System.out.println(Thread.currentThread().getName());
+       //System.out.println(Thread.currentThread().getName());
     }
 
     public int getValue() {
