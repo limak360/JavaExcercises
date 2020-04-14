@@ -3,33 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="31da5017-f233-4148-89c8-eb7c8e29fa6e" name="Default Changelist" comment="Packages naming convention implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/threads/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/threads/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/threads/VolatileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/threads/VolatileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Excercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Excercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/threads/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/threads/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/threads/Challanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Excercises/pl/KamilJacko/threads/Challanges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kamiljacko/streams/Challanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kamiljacko/streams/Challanges.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -42,64 +32,38 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.pl.kamiljacko.tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.kamiljacko.threads" />
       <recent name="pl.KamilJacko.GenericTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Challanges">
-    <configuration name="Challanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Challanges" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Deadlock" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.Main" />
-      <module name="Java Excercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.GradeBookTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.KamilJacko.genericTypes.Main" />
       <module name="Java Excercises" />
@@ -126,39 +90,91 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumerImproved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.ProducerConsumerImproved" />
+    <configuration name="GradeBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
+          <option name="PATTERN" value="test.pl.kamiljacko.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test.pl.kamiljacko.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.pl.kamiljacko.tests.GradeBookTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kamiljacko.threads.VolatileExample" />
+    <configuration name="GradeBookTest.shouldGetEqualSubject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Excercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.kamiljacko.threads.MyMessage" />
+          <option name="PATTERN" value="test.pl.kamiljacko.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test.pl.kamiljacko.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.pl.kamiljacko.tests.GradeBookTest" />
+      <option name="METHOD_NAME" value="shouldGetEqualSubject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeBookTest.shouldntAllowToAddSubjectThatAlreadyExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.pl.kamiljacko.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.pl.kamiljacko.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.pl.kamiljacko.tests.GradeBookTest" />
+      <option name="METHOD_NAME" value="shouldntAllowToAddSubjectThatAlreadyExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeBookTest.shouldntAllowToGetNonExistingSubject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.pl.kamiljacko.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.pl.kamiljacko.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.pl.kamiljacko.tests.GradeBookTest" />
+      <option name="METHOD_NAME" value="shouldntAllowToGetNonExistingSubject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.pl.kamiljacko.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.pl.kamiljacko.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.pl.kamiljacko.tests.SubjectTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challanges" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Deadlock" />
-        <item itemvalue="Application.ProducerConsumerImproved" />
-        <item itemvalue="Application.VolatileExample" />
+        <item itemvalue="JUnit.GradeBookTest" />
+        <item itemvalue="JUnit.SubjectTest" />
+        <item itemvalue="JUnit.GradeBookTest.shouldGetEqualSubject" />
+        <item itemvalue="JUnit.GradeBookTest.shouldntAllowToGetNonExistingSubject" />
+        <item itemvalue="JUnit.GradeBookTest.shouldntAllowToAddSubjectThatAlreadyExists" />
       </list>
     </recent_temporary>
   </component>
@@ -217,11 +233,20 @@
       <workItem from="1586255319994" duration="8960000" />
       <workItem from="1586341573348" duration="12876000" />
       <workItem from="1586422033248" duration="7159000" />
+      <workItem from="1586454238128" duration="3506000" />
+      <workItem from="1586509933762" duration="2402000" />
+      <workItem from="1586552601653" duration="203000" />
+      <workItem from="1586553285586" duration="1291000" />
+      <workItem from="1586620559157" duration="4326000" />
+      <workItem from="1586684392775" duration="6306000" />
+      <workItem from="1586769838206" duration="592000" />
+      <workItem from="1586787310983" duration="571000" />
+      <workItem from="1586854789255" duration="20803000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Packages naming convention implemented" />
@@ -232,14 +257,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585593167711" />
-    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1586380311767">
+    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1586896754756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586380311767" />
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584975250340">
+    <state x="1245" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586896754756" />
+    <state x="690" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586876860380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584975250340" />
+    <state x="690" y="294" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586876860380" />
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586552752976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586552752976" />
     <state x="1156" y="237" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585689032869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -252,57 +281,69 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="527" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585949625327" />
-    <state width="1876" height="116" key="GridCell.Tab.0.bottom" timestamp="1586437741592">
+    <state x="1220" y="260" key="FileChooserDialogImpl" timestamp="1586620717540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741592" />
-    <state width="1876" height="116" key="GridCell.Tab.0.center" timestamp="1586437741591">
+    <state x="1220" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586620717540" />
+    <state width="900" height="335" key="GridCell.Tab.0.bottom" timestamp="1586900764511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
-    <state width="1876" height="116" key="GridCell.Tab.0.left" timestamp="1586437741591">
+    <state width="900" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764511" />
+    <state width="900" height="335" key="GridCell.Tab.0.center" timestamp="1586900764510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
-    <state width="1876" height="116" key="GridCell.Tab.0.right" timestamp="1586437741591">
+    <state width="900" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764510" />
+    <state width="900" height="335" key="GridCell.Tab.0.left" timestamp="1586900764510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586437741591" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1586295572170">
+    <state width="900" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764510" />
+    <state width="900" height="335" key="GridCell.Tab.0.right" timestamp="1586900764510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572170" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1586295572170">
+    <state width="900" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764510" />
+    <state width="900" height="335" key="GridCell.Tab.1.bottom" timestamp="1586900764511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572170" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1586295572170">
+    <state width="900" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764511" />
+    <state width="900" height="335" key="GridCell.Tab.1.center" timestamp="1586900764511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572170" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1586295572170">
+    <state width="900" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764511" />
+    <state width="900" height="335" key="GridCell.Tab.1.left" timestamp="1586900764511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586295572170" />
-    <state x="440" y="93" key="SettingsEditor" timestamp="1586273120724">
+    <state width="900" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764511" />
+    <state width="900" height="335" key="GridCell.Tab.1.right" timestamp="1586900764511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586273120724" />
+    <state width="900" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586900764511" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1586876986125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586876986125" />
     <state width="480" height="520" key="XDebugger.FullValuePopup" timestamp="1585590525517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="480" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1585590525517" />
+    <state x="665" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586877023416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1586877023416" />
     <state x="1095" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583358189618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1095" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583358189618" />
+    <state x="529" y="207" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586896323801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="207" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586896323801" />
     <state x="616" y="235" key="run.anything.popup" timestamp="1586434783624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586434783624" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586381479669">
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586717158909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586381479669" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586717158909" />
   </component>
 </project>
