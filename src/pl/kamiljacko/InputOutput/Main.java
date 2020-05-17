@@ -5,7 +5,6 @@ import java.nio.file.StandardOpenOption;
 
 public class Main {
     public static void main(String[] args) {
-
         //io package
         //Scanner scanner = new Scanner(new FilerReader("")));
         //scanner.close() zamknie tez filereadera , musi implementowac interfejs Closeable , to samo z try with resources
